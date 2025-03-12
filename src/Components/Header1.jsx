@@ -83,7 +83,6 @@ function Header1() {
         <div className="logoAndText">
 
         </div>
-        div.
       </div>
       <div className="text">
         <h1>New Look. New Feel.</h1>
