@@ -3,7 +3,7 @@ import gsap from 'gsap'
 import './App.css'
 import Header from './Components/Header'
 import Header1 from './Components/Header1'
-import Adjustment from './Components/adjustment'
+import Adjustment from './Components/Adjustment.jsx'
 
 function App() {
   const ref = useRef(null)
@@ -32,4 +32,5 @@ function App() {
 }
 
 export default App
+
 
