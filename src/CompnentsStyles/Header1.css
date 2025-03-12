@@ -1,0 +1,36 @@
+.scrollHeader {
+    margin-top: 20rem;
+    background-color: white;
+}
+
+.text {
+    margin: 0;
+    font-size: xx-large;
+}
+
+.text h1 {
+    margin: 0;
+}
+
+.gard {
+    margin: 0;
+    background: linear-gradient(90deg, rgb(255, 60, 0) 0%, rgb(255, 147, 15) 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.ImgPCAndLaptop{
+max-height: 90rem;
+}
+.laptop1{
+    position: absolute;
+    top: 62rem;
+    left: 15rem;
+    height: 20rem;
+}
+.laptop2{
+    position: absolute;
+    top: 62rem;
+    left: 60rem;
+    width: 35rem;
+    height: 20rem;
+}

@@ -1,0 +1,16 @@
+.headerText1, .headerText2 {
+  font-size: 5rem;
+  font-family: 'Arial, sans-serif';
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+.headerImg1{
+  position: absolute;
+  top: -30rem;
+  left: 10rem;
+}
+.headerText2{
+  position: absolute;
+  top: -30rem;
+}
